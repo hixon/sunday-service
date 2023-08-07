@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sunday-service", "sunday-service\sunday-service.csproj", "{A19140B0-5F0B-46DE-AC20-F2E05B9C9DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19140B0-5F0B-46DE-AC20-F2E05B9C9DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19140B0-5F0B-46DE-AC20-F2E05B9C9DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19140B0-5F0B-46DE-AC20-F2E05B9C9DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19140B0-5F0B-46DE-AC20-F2E05B9C9DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121E3BD3-5060-4527-8CEF-A3E6008EBF5F}
+	EndGlobalSection
+EndGlobal
